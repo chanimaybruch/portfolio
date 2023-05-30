@@ -2,9 +2,8 @@
 
 
 |    Project    |    Notebook   |   Description    |   Libraries   |
-| ------------- | ------------- |
-| Car Price Factors  | Content Cell  |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell   | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
