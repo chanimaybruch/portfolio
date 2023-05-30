@@ -6,8 +6,8 @@
 
 ### Description of the data
 #### The dataset contains the following fields:
- -- price
- -- model_year
+ - price
+ - model_year
 model
 condition
 cylinders
