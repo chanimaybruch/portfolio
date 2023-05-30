@@ -1,4 +1,4 @@
-# Data Science Portflio 
+# Data Science Portfolio 
 
 Here you can view projects that I completed in the professional data science training program by Practicum USA.
 
