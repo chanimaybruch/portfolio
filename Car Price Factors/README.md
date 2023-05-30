@@ -1,9 +1,9 @@
-# Car Price Factors explained
+# Car Price Factors
 
-## Business Problem
+## Business Goal
 
-## Dataset used
+## Dataset
 
-## Tools used
+## Tools
 
 ## Result
