@@ -1,6 +1,6 @@
 # Data Science Portfolio 
 
-Here you can view projects that I completed in the data science training program by Practicum USA.
+Projects completed in the data science training program at Practicum.
 
 |    Project    |    Notebook   |   Description    |   Libraries   |
 | ------------- | ------------- | -------------    | ------------- |
