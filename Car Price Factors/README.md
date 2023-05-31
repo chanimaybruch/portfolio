@@ -3,14 +3,11 @@
 ## Business Goal
 Using data published on used car website, identify factors that influence the price of a car.
 
-## Dataset
+## Data
 vehicles_us.csv
 
 ## Skills
-data preprocessing, data slicing, exploratory data analysis
-
-## Tools
-pandas, numpy, matplotlib
+data preprocessing, exploratory data analysis, pandas, numpy, matplotlib
 
 ## Result
 
