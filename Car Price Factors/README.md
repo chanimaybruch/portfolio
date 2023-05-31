@@ -11,4 +11,4 @@ data preprocessing, exploratory data analysis, pandas, numpy, matplotlib
 
 ## Result
 
-THe most popular vehicle types advertised were SUVs and trucks. SUV price was partially correlated with paint color such that orange was correlated with a higher price. For trucks, price was not correlated with price color. Both SUV price and truck price were not correlated with condition, age or mileage.
+The two most popular vehicle types advertised were SUVs and trucks. SUV price was partially correlated with paint color such that orange was correlated with a higher price. For trucks, price was not correlated with price color. Both SUV price and truck price were not correlated with condition, age or mileage.
