@@ -4,5 +4,5 @@ Projects completed in the data science training program at Practicum.
 
 | Project | Notebook | Description | Skills |
 | ---- | ---- | ---- | ---- |
-| Car Price Factors | [car_price_factors.ipynb](car_price_factors.ipynb) | Identify which car features correlate with the price of a car | data preprocessing, exploratory data analysis, pandas, numpy, matplotlib  |
+| Car Price Factors | [car_price_factors.ipynb](portfolio/Car Price Factors/car_price_factors.ipynb) | Identify which car features correlate with the price of a car | data preprocessing, exploratory data analysis, pandas, numpy, matplotlib  |
 
