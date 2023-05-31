@@ -11,6 +11,4 @@ data preprocessing, statistical data analysis, exploratory data analysis, pandas
 
 
 ## Result
-Monthly revenue differed between plans. Utimate plan tended to generate more monthly revenue than Surf plan.
-There was a statistically significant difference in revenue between plans. We used a ttest_ind, alpha level of 0.01. The p-value was 1.218411585212325e-15, indicating the chances of obtaining this result by chance is close to zero.
-
+Utimate plan generated more monthly revenue than Surf plan. There was a statistically significant difference in monthly revenue between plans.
