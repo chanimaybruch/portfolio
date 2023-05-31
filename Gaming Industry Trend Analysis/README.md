@@ -10,8 +10,6 @@ data preprocessing, statistical data analysis, exploratory data analysis, pandas
 ## Result
 The top three performing games across platforms in general were Grand Theft Auto V, Call of Duty: Black Ops 3, and Call of Duty: Advanced Warfare. Games that involved action and shooting had higher sales. There was a moderate positive correlation between critic scores and total sales based on statistical analysis.
 
-Regional Sales
-
 Regional Sales Per Platform
 Platform sales varied across regions. The highest performing platforms were PS4 for North America and Europe and 3DS for Japan. The lowest performing platforms were 3DS for North America and Europe, and XOne for Japan.
  
