@@ -1,7 +1,7 @@
 # Car Price Factors
 
 ## Business Goal
-Using data published on used car website, identify factors that influence the price of a car.
+Identify factors that influence the price of a car using data published on used car website.
 
 ## Data
 vehicles_us.csv
