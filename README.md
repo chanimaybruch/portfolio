@@ -6,4 +6,4 @@ Projects completed in the data science training program at Practicum.
 | ---- | ---- | ---- | ---- |
 | Car Price Factors | [car_price_factors.ipynb](car_price_factors.ipynb) | Identify which car features correlate with the price of a car | data preprocessing, exploratory data analysis, pandas, numpy, matplotlib  |
 | Mobile Plan Revenue Comparison | [car_price_factors.ipynb](car_price_factors.ipynb) | Analyze clients' behavior. Determine plan with highest revenue | data preprocessing, statistical data analysis, exploratory data analysis, pandas, numpy, matplotlib, seaborn, scipy  |
-
+| Gaming Industry Trend Analysis | [car_price_factors.ipynb](car_price_factors.ipynb) | Identify high performing games and platforms across global regions. | data preprocessing, statistical data analysis, exploratory data analysis, pandas, numpy, matplotlib, seaborn, scipy  |
