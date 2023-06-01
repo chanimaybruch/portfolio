@@ -1,7 +1,7 @@
 # Gold Recovery Model
 
 ## Business Goal
-Prepare a prototype of a machine learning model for Zyfra to predict the amount of gold recovered from gold ore. The model will help to optimize the production and eliminate unprofitable parameters.
+Prepare a prototype of a machine learning model to predict the amount of gold recovered from gold ore. The model will help to optimize gold production and eliminate unprofitable parameters.
 
 ## Skills
 pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning regression
