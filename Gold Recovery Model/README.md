@@ -7,4 +7,4 @@ Prepare a prototype of a machine learning model for Zyfra to predict the amount 
 pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning regression
 
 ## Result
-Based on the bootstrapping method, region 1 represented the lowest risk (0.2%) and the highest potential revenue (5.18 million USD), within a 95% confidence interval. We, therefore, suggest region 1 as the ideal region for oil development.
+LinearRegression was the best model at predicting levels of ouput from the purification process. It was the most accurate at predicting gold recovery levels, with a final symmetric mean absolute percentage error (SMAPE) score of 8.6%. 
