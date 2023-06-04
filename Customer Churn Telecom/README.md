@@ -7,4 +7,4 @@ We will build a model for telecom operator Interconnect to forecast their churn 
 pandas, matplotlib, seaborn, sklearn, machine learning with imbalanced data, CatBoostClassifier, XGBClassifier, LGBMClassifier, SMOTE, Pipeline, GridSearchCV
 
 ## Result
-Our best perfoming model was the CatBoostClassifier model with an AUC-ROC score of 0.84 and an F1 score of 0.64.
+Our best perfoming model was the CatBoostClassifier model with an AUC-ROC score of 0.84 and an F1 score of 0.64. We can see from the CatBoost feature importance plot the features that contributed most to churn were longevity, monthlycharges, techsupport, paymentmethod, onlinesecurity, and internetservice.
