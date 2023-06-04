@@ -16,4 +16,4 @@ Projects completed in the data science training program at Practicum.
 | Time Series Taxi Orders | Prepare model to predict number of taxi orders for next hour | pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning regression, time series, LightGBM |
 | Machine Learning Text Analysis | Prepare model to detect negative movie reviews | pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning text analysis, LightGBM |
 | Computer Vision Model | Prepare model to evaluate people's age in a photograph | pandas, numpy, matplotlib, seaborn, scipy, sklearn |
-| Customer Churn Telecom | Determine customer churn for mobile service. | pandas, matplotlib, seaborn, sklearn, machine learning with imbalanced data, CatBoostClassifier, XGBClassifier, LGBMClassifier, SMOTE, Pipeline, GridSearchCV |
+| Customer Churn Telecom | Determine customer churn for mobile service. | pandas, matplotlib, seaborn, sklearn, machine learning with imbalanced data, CatBoost, XGB, LGBM, SMOTE, Pipeline, GridSearchCV |
