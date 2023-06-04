@@ -1,6 +1,5 @@
 # Gaming Industry Trend Analysis
 
-
 ## Business Goal
 Forecast sales for coming year based on previous years sales. Analyze gaming industry by comparing performance of global regions, gaming platforms, and most popular games.
 
