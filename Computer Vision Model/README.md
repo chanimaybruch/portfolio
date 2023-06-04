@@ -7,7 +7,7 @@ Computer vision methods can be used to determine age of a person from a photo.
 The task is to build and evaluate a model for verifying people's age.
 
 ## Skills
-pandas, numpy, matplotlib, seaborn, scipy, sklearn, pillow, tensorflow, 
+pandas, numpy, matplotlib, seaborn, scipy, sklearn, pillow, tensorflow
 
 ## Result
 The model was able to effectively predict the ages of individuals based on their photos. The MAE of the model after epoch 14 was 6.0192. Afterwards, the model seemed to overfit. These results demonstrate the usefulness of the ResNet50 in a regression task involving a large photo dataset.
