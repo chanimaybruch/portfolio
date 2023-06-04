@@ -8,5 +8,9 @@ The RMSE metric on the test set should be 48 or less.
 pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning regression, time series, LightGBM
 
 ## Result
-The model that had the best combined speed and score was LightGBMRegressor. The performance and speed for the LightGBM was better than for all other models and improved from the validation to the test set.
-On the test set the rmse was: 1389.0992289826563, CPU times: total: 18 s Wall time: 6.86 s.
+The LightGBM was the best model of the models we tried at predicting the number of taxi orders in the next hour. The model had some overfitting yet the result is an improvement over the basic model of previous value.
+
+Dummy Regressor: 58.2
+Median Control: 59.7
+Previous Value: 47.2
+LightGBM on the test data: 42.3
