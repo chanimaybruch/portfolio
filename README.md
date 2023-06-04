@@ -15,3 +15,4 @@ Projects completed in the data science training program at Practicum.
 | Car Value Prediction Model | Prepare model to predict car value based on previous data with car features and prices | pandas, matplotlib, seaborn, sklearn, machine learning regression, Catboost, LightGBM |
 | Time Series Taxi Orders | Prepare model to predict number of taxi orders for next hour | pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning regression, time series, LightGBM |
 | Machine Learning Text Analysis | Prepare model to detect negative movie reviews | pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning text analysis, LightGBM |
+| Computer Vision Model | Prepare model to evaluate people's age in a photograph | pandas, numpy, matplotlib, seaborn, scipy, sklearn |
