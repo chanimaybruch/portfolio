@@ -5,7 +5,7 @@ Sweet Lift Taxi company has collected historical data on taxi orders at airports
 The RMSE metric on the test set should be 48 or less.
 
 ## Skills
-pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning regression,time series, Catboost, LightGBM
+pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning regression, time series, LightGBM
 
 ## Result
 The model that had the best combined speed and score was LightGBMRegressor. The performance and speed for the LightGBM was better than for all other models and improved from the validation to the test set.
