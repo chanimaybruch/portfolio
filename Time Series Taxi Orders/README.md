@@ -8,9 +8,4 @@ The RMSE metric on the test set should be 48 or less.
 pandas, numpy, matplotlib, seaborn, scipy, sklearn, machine learning regression, time series, LightGBM
 
 ## Result
-The LightGBM was the best model of the models we tried at predicting the number of taxi orders in the next hour. The model had some overfitting yet the result is an improvement over the basic model of previous value.
-
-Dummy Regressor: 58.2
-Median Control: 59.7
-Previous Value: 47.2
-LightGBM on the test data: 42.3
+The LightGBM was the best model of the models we tried at predicting the number of taxi orders in the next hour. The model had some overfitting yet the result was an improvement over the baseline RMSE.
