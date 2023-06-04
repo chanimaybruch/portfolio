@@ -1,7 +1,7 @@
 # Customer Churn Telecom
 
 ## Business Goal
-Analyze data on clients of the telecom operator Interconnect to forecast their churn of clients. Create a model to predit clients who are likely to leave so that Interconnect will be able to offer these clients incentives to stay. Explore features that may be associated with churn in order to make suggestions to the company on how to prevent churn.
+We will build a model for telecom operator Interconnect to forecast their churn of clients.  We will also explore features that may be associated with churn in order to make suggestions to the company on how to prevent churn. This is a binary classification model. We will compare different classification models, and use oversampling and hyperparameter tuning to improve evaluation scores.
 
 ## Skills
 pandas, matplotlib, seaborn, sklearn, machine learning with imbalanced data, CatBoostClassifier, XGBClassifier, LGBMClassifier, SMOTE, Pipeline, GridSearchCV
