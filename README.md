@@ -1,6 +1,6 @@
 # Data Science Portfolio 
 
-Projects completed in the data science training program at Practicum.
+Projects completed in the data science training program at TripleTen.
 
 | Project | Goal | Skills |
 | ---- | ---- | ---- |
