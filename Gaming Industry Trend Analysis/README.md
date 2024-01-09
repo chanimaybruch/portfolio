@@ -17,3 +17,5 @@ Market share per genre varied per region. Action games were popular across regio
  
  - Regional Sales per ESRB rating: 
 ESRB rating affected sales in individual regions. Games rated "M" for Mature had the most market share in North America and Europe, followed by E ratings for Everyone ages 6+ while games rated "T" for Teen had the most market share in Japan, followed by Mature ratings.
+
+These findings should be taken into account by product development and marketing teams so they can create and market games that cater to the high performing markets.
