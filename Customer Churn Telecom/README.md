@@ -15,7 +15,7 @@ Customers who had a higher monthly fee were more likely to leave. In addition, c
 
 Also internet service was found to be an important feature in predicting churn. It is worthwhile to explore if churn based on internet serivce was due to the high cost of the service or poor service quality.
 
-Other factors that may be associated with churn and need further exploration are techsupport, onlinesecurity, onlinebackup, and dependents.
+Other factors that may be associated with churn and need further exploration were techsupport, onlinesecurity, onlinebackup, and dependents.
 
 Suggestions to the company to prevent churn:
 
