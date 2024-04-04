@@ -1,4 +1,4 @@
-# Mobile Plan Classifier Model
+# Customer Tracking and Marketing Segmentation for Telecom Company
 
 ## Business Goal
 Mobile carrier Megaline seeks to develop a model to analyze the cellphone behavior of legacy subscribers' in order to recommend them one of Megaline's newer plans: Smart or Ultra. Use behavior data about subscribers who have already switched to the new plans to develop a model that can recommend what plan a user should select.
