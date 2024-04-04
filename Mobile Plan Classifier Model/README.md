@@ -7,4 +7,4 @@ Mobile carrier Megaline seeks to develop a model to analyze the cellphone behavi
 pandas, matplotlib, seaborn, sklearn, machine learning classification
 
 ## Result
-The most accurate model was the RandomForestClassifer. Accuracy for the test set was 0.79, exceeding our target.
+Using a RandomForestClassifer Model, achieved a 79% accuracy for determining which new mobile plan a subscriber would select based on their previous mobile plan usage.
