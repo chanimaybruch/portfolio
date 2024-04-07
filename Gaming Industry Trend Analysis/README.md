@@ -1,7 +1,7 @@
 # Gaming Industry Trend Analysis
 
 ## Business Goal
-Forecast sales for coming year based on previous years sales. Analyze gaming industry by comparing performance of global regions, gaming platforms, and most popular games.
+Inform marketing department based on sales trends. Analyze gaming industry by comparing performance of global regions, gaming platforms, genres and games.
 
 ## Skills
 data preprocessing, statistical data analysis, exploratory data analysis, pandas, numpy, matplotlib, seaborn, scipy
