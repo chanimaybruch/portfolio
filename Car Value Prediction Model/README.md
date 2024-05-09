@@ -1,7 +1,7 @@
 # Car Value Prediction Model
 
 ## Business Goal
-A used car sales company is developing an app which can provide customers with the market value of a car. Goal is to build a model that will use car data to determine the value of car. The model should take into account:
+Develop an app for a used car company which can provide customers with the market value of a car. Goal is to build a model that will use car data to determine the value of car. The model should take into account:
  - the quality of the prediction
  - the speed of the prediction
  - the time required for training
